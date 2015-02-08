@@ -1,0 +1,43 @@
+.image { 
+   position: relative; 
+   width: 1500px; /* for IE 6 */
+}
+
+.idea {
+  	color: white;
+  	position: fixed; 
+   top: 5px; 
+   left: 500px; 
+   width: 100%; 
+   font-size: 80px;
+   font-family: calibri;
+  }
+
+ul.nav{
+  position: fixed;
+  font-size: 30px;
+  list-style: none;
+  padding: 200px; 
+  top: 5px; 
+  left: 330px; 
+  font-family: calibri;
+  color: white;
+}
+ul.nav li{
+  display: inline;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+	text-decoration: none;
+    color: white;
+}
+a:active{
+	color: white;
+}
+
+a:visited {
+	color: white;
+}

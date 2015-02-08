@@ -1,0 +1,21 @@
+
+body {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-family: calibri;
+	font-size: 35px;
+	background-image: url(shoe.jpg);
+	width: 50%;
+}
+
+a:link{
+
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+
+	color: white;
+}

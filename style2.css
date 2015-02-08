@@ -1,0 +1,40 @@
+body {
+
+	background-image: url("forage.jpg");
+
+}
+
+/*.img {
+	width: 1500px;
+	opacity: .5;
+}*/
+
+.forage {
+
+	font-family: calibri;
+	font-size: 50px;
+	color: #787878;
+	padding-left: 50px;
+
+}
+
+.column1 {
+
+	font-family: calibri;
+	width: 45%;
+	color: #787878;
+	padding-left: 50px;
+	font-size: 20px;
+	float: left;
+
+}
+
+.column2 {
+	font-family: calibri;
+	width: 45%;
+	color: #787878;
+	padding-left: 50px;
+	font-size: 20px;
+	float: left;
+}
+
