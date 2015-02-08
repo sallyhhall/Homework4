@@ -38,3 +38,13 @@ body {
 	float: left;
 }
 
+a:link{
+
+	color: #787878;
+}
+
+a:visited{
+
+	color: #787878;
+}
+
